@@ -1,0 +1,34 @@
+# Monitoring dan Logging Requirements
+# Dependencies untuk sistem monitoring dan logging ML model
+
+# Web framework untuk inference API
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Machine Learning libraries
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+joblib==1.3.2
+
+# MLflow untuk model management
+mlflow==2.7.1
+
+# Prometheus monitoring
+prometheus-client==0.17.1
+
+# System monitoring
+psutil==5.9.5
+
+# Logging
+logging==0.4.9.6
+
+# HTTP requests (untuk testing)
+requests==2.31.0
+
+# Configuration
+PyYAML==6.0.1
+
+# Additional utilities
+python-dotenv==1.0.0
+click==8.1.7

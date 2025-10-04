@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5622079bf0cc4988bf0c66a8b69f5436/artifacts
+end_time: 1758993449679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5622079bf0cc4988bf0c66a8b69f5436
+run_name: brawny-pug-562
+run_uuid: 5622079bf0cc4988bf0c66a8b69f5436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758992748496
+status: 3
+tags: []
+user_id: klissh
